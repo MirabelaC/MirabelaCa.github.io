@@ -28,9 +28,8 @@ h1 {
   text-align: left;
   margin: 50px;
   font-size: 35px;
-  font-family: 'Satisfy', cursive;
-  font-weight: bold;
-  color: black;
+  font-family: 'UnifrakturMaguntia';
+  font-weight: 400;
 }
 
 .main-content {
@@ -65,7 +64,7 @@ h1 {
   border-radius: 6px;
   color: black;
   font-size: 1.2rem;
-  font-family: 'Satisfy', cursive;
+  font-family: 'UnifrakturMaguntia';
   margin-bottom: 10px;
   width: 100%;
 }
@@ -157,7 +156,7 @@ h1 {
 }
 
 .section-title {
-  font-family: 'Satisfy', cursive;
+  font-family: 'UnifrakturMaguntia';
   font-size: 1.8rem;
   margin-bottom: 20px;
 }
@@ -302,7 +301,7 @@ h1 {
 .series-title {
   margin-top: 10px;
   font-weight: bold;
-  font-family: 'Satisfy', cursive;
+  font-family: 'UnifrakturMaguntia';
   font-size: 1rem;
 }
 
@@ -340,7 +339,7 @@ h1 {
 .movies-title {
   margin-top: 10px;
   font-weight: bold;
-  font-family: 'Satisfy', cursive;
+  font-family: 'UnifrakturMaguntia';
   font-size: 1rem;
 }
 
